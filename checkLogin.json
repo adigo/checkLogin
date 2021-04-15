@@ -1,0 +1,7 @@
+{
+    "username": "username",
+    "password": "password",
+    "sender": "XXX@gmail.com",
+    "sender_pass": "password",
+    "recipients": ["XXX@XXX.edu", "XXX@gmail.com", "XXX@XXX.edu"]
+}
